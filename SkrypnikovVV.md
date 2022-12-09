@@ -167,6 +167,8 @@
 
     >`git branch -d alter_branch_creating`
 
+* Здесь я продолжу писать руководство.
+
 ***А пока все. До новых встреч!***
 
 ![До скорых встреч!](https://lh6.googleusercontent.com/Trm0vDRBsZkfHmTl3BWYaK3rkXlHE1YQIaF8dOGYUo4uORA4aCFNdc2AdpblHnHb--BehH6KRQFpVBFrpm4jo0GKJlZgHuVmJQtvHwiqv2sLftgJX4YxESdu7Cprlpu2YQ "Пока!")
