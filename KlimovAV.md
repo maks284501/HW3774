@@ -12,6 +12,7 @@
 загружает все изменения, но и пытается слить 
 все ветки на локальном компьютере и в
 удаленном репозитории.
+sdfsdhfsjhdfgasjhldfgdhgjdvbsadnmvfhsadfvsadf
 
 *git pull*
 ===
